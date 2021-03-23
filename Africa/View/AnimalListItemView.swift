@@ -15,7 +15,7 @@ struct AnimalListItemView: View {
     // MARK: - BODY
     var body: some View {
         HStack(alignment: .center, spacing: 16) {
-            Image(animal.image)
+            Image("lion")
                 .resizable()
                 .scaledToFill()
                 .frame(width: 90, height: 90)
