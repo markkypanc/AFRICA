@@ -1,5 +1,11 @@
 # AFRICA
-AFRICA - iOS App project [ SwiftMasterclass ]
+AFRICA - iOS, Mac and iPad App project
+
+SwiftUI MasterClass
+
+Website: https://swiftuimasterclass.com
+
+Twitter: https://twitter.com/robertpetras
 
 
 ![Alt Text](https://media.giphy.com/media/XzPI3fVSD51nlxHxsU/giphy.gif)
