@@ -14,9 +14,3 @@ Technologies that covered:
 - Mac Catalyst
 - Sticker Pack Extension
 - Works on iPhone, iPad and Mac
-
-SwiftUI MasterClass
-
-Website: https://swiftuimasterclass.com
-
-Twitter: https://twitter.com/robertpetras
